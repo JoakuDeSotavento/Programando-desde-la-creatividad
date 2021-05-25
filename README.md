@@ -1,6 +1,17 @@
 # Programando desde la creatividad
  En este repositorio de encuentran los ejericios presentado en la Master Class: Creative Coding, Programando desde la creativdad.
 
+## Presentación
+El anableps anableps es un pequeño pez que tiene cuatro ojos, es un pez que vive en zonas pantanosas y suele estar cerca de la superficie del agua. Sus ojos parecen los de una rana o una salamandra, pero están divididos en dos, cada globo ocular tiene dos pupilas, esto le permite ver bajo el agua y al ras de la superficie al mismo tiempo. Este pequeño ser me parece una metáfora perfecta para hablar de lo que es el creative coding, es combinar en una sola persona dos habilidades de mundo que parecen diferentes, pero en realidad son más afines de lo que pensamos: la computación y la creatividad.
+
+Hay una larga trayectoria de artistas experimentando con computadoras, desde los tiempos en que las computadoras tenían el tamaño de edificios, pero el Creative Coding posiblemente surge con la iniciativa del Artista Científico, John Maeda al crear el grupo Aesthetics + Computation Group en el Media Lab del MIT. Esta iniciativa tuvo muchas repercusiones en el mundo de la tecnología y el arte. Ben Fry y Casey Reas, los creadores del Processing son egresados del Media Lab del MIT, el proyecto Arduino también tiene influencias de este espacio y OpenFranworks otra de las plataformas más usadas para programación de interactividad fue cofundada por Zach Lieberman, otro egresado del mismo espacio.
+
+Gracias a estos proyectos la forma de hacer arte se ha transformado, ya que hicieron mucho más accesible el mundo de la computación a los diseñadores y artistas. Como consecuencia, también el mundo de la computación se ha nutrido a nivel estético y creativo.
+
+p5js es la versión más actual del proyecto Processing y esta pensado completamente para su desarrollo en tecnologías web. Con este framework de JavaScript se pueden crear una gran cantidad de aplicaciones interactivas que funcionen a partir del explorador. Es una gran forma de acercarse al mundo de la programación, al mismo tiempo que es la posibilidad de explorar de forma fácil la veta creativa de la computación.
+
+En esta Master Class se presentarán algunos proyectos representativos del Creative Coding, así como una introducción a p5js. Se presentará de forma práctica como iniciarse en esta plataforma.
+
 ## Slides
 
 <https://docs.google.com/presentation/d/1q4ATepbuUnKqU6-4rVXErL10PGsk1ZT5JEgx1fhNxEU/edit?usp=sharing>
@@ -19,18 +30,14 @@ Esta es una selección de los mejores libros para estos menesteres
 
 <https://arterobotico.com/blog/>
 
+## Links de insteres
 
-## Autores
+<https://www.lozano-hemmer.com/pareidolium.php>
+<https://www.random-international.com>
+<https://zachlieberman.medium.com/land-lines-e1f88c745847#.35loqxn62>
 
-**Alfredo Miralles**
 
-![@alfredomiralles](./img/alfredo.jpg)
-
-Madrid, 1987. Intérprete de danza contemporánea y gestor cultural. Su trabajo en producción de artes escénicas aúna sus dos trayectorias profesionales: la danza y la gestión de proyectos. Combina su trabajo desde 2009 en el Aula de las Artes de la Universidad Carlos III de Madrid con la escritura y reflexión en torno a la danza, principalmente como crítico en la Revista SusyQ. En la actualidad está inmerso en la búsqueda de un lenguaje propio en la creación audiovisual en combinación con el arte del movimiento.
-
-[Instagram](https://www.instagram.com/alfredomiralles) |
-[YouTube](https://www.youtube.com/user/alfredomirallesbenit) |
-
+## Autor
 
 **Joaquín R. Díaz Duran**
 aka **Joaku de Sotavento**
