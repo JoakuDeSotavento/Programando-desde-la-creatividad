@@ -1,6 +1,8 @@
 # Programando desde la creatividad
  En este repositorio de encuentran los ejericios presentado en la Master Class: Creative Coding, Programando desde la creativdad.
 
+![Transfiguration 2020](./img/universal-everything.jpg)
+
 ## Presentación
 El anableps anableps es un pequeño pez que tiene cuatro ojos, es un pez que vive en zonas pantanosas y suele estar cerca de la superficie del agua. Sus ojos parecen los de una rana o una salamandra, pero están divididos en dos, cada globo ocular tiene dos pupilas, esto le permite ver bajo el agua y al ras de la superficie al mismo tiempo. Este pequeño ser me parece una metáfora perfecta para hablar de lo que es el creative coding, es combinar en una sola persona dos habilidades de mundo que parecen diferentes, pero en realidad son más afines de lo que pensamos: la computación y la creatividad.
 
@@ -11,6 +13,17 @@ Gracias a estos proyectos la forma de hacer arte se ha transformado, ya que hici
 p5js es la versión más actual del proyecto Processing y esta pensado completamente para su desarrollo en tecnologías web. Con este framework de JavaScript se pueden crear una gran cantidad de aplicaciones interactivas que funcionen a partir del explorador. Es una gran forma de acercarse al mundo de la programación, al mismo tiempo que es la posibilidad de explorar de forma fácil la veta creativa de la computación.
 
 En esta Master Class se presentarán algunos proyectos representativos del Creative Coding, así como una introducción a p5js. Se presentará de forma práctica como iniciarse en esta plataforma.
+
+### Temas
+
+2.	¿Qué es el Creative Coding?
+3.	Protagonistas, tecnologías y proyectos
+4.	El proyecto Processing
+5.	P5js
+6.	Bibliotecas
+7.	Ejemplos
+8.	Hands-On
+
 
 ## Slides
 
