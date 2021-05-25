@@ -14,6 +14,8 @@ p5js es la versión más actual del proyecto Processing y esta pensado completam
 
 En esta Master Class se presentarán algunos proyectos representativos del Creative Coding, así como una introducción a p5js. Se presentará de forma práctica como iniciarse en esta plataforma.
 
+***
+
 ### Temas
 
 2.	¿Qué es el Creative Coding?
@@ -46,7 +48,9 @@ Esta es una selección de los mejores libros para estos menesteres
 ## Links de insteres
 
 <https://www.lozano-hemmer.com/pareidolium.php>
+
 <https://www.random-international.com>
+
 <https://zachlieberman.medium.com/land-lines-e1f88c745847#.35loqxn62>
 
 
