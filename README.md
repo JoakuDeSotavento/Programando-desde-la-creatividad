@@ -29,7 +29,7 @@ En esta Master Class se presentarán algunos proyectos representativos del Creat
 
 ## Slides
 
-<https://docs.google.com/presentation/d/1q4ATepbuUnKqU6-4rVXErL10PGsk1ZT5JEgx1fhNxEU/edit?usp=sharing>
+<https://docs.google.com/presentation/d/1gp7tlBZ_yRv2KBFxox2nZRlM5gzhY0HXg3u9IM9GO5k/edit?usp=sharing>
 
 ## Materiales del concurso
 
